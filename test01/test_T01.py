@@ -1,9 +1,9 @@
 #!/usr/bin/python
 
 def func01():
-    return None
+    return 3
     
-if __name__ == '__main__':
+def test_script():
     a = 23
     a = a + func01()
     assert a == 20

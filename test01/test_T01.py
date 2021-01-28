@@ -1,7 +1,8 @@
 #!/usr/bin/python
 
 def func01():
-    return 3
+    #return 3 # original answer
+    return -3
     
 def test_script():
     a = 23

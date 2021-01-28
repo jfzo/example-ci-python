@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 def func01():
     return None
     
